@@ -1,8 +1,0 @@
-schemaVersion: 1.2
-componentType: service
-name: choreo-anstalld-service-neondb
-source:
-  path: .
-build:
-  ballerina:
-    file: main.bal
