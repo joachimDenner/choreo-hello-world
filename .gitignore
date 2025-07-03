@@ -3,3 +3,20 @@
 *.jar
 *.class
 *.log
+
+# VS Code settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Dependency files
+Dependencies.toml
+
+# Ignore IDE project files
+.idea/
+*.iml
+
+# Ignore environment files
+.env
